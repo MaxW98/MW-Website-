@@ -1,0 +1,31 @@
+/*positioning for image banner and for background positioning*/
+.cloudbanner {
+position: fixed;
+overflow-x: hidden;
+overflow-y: auto;
+width: 100%;
+display: flex;
+justify-content: center;
+top:80px;
+height: 35%;
+background-position: center;
+margin-top: 35px;
+    
+}
+
+
+/*row positioning for column and content*/
+.row {
+position: fixed;
+overflow-x: hidden;
+overflow-y: auto;
+width: 90%;
+display: flex;
+justify-content: center;
+top:35em;
+height: 100%;
+margin-left: 6em;
+align-content: center;
+    
+}
+

@@ -1,0 +1,33 @@
+/*web 4.0 page positioning of content for section */
+#webc {
+position: fixed;
+overflow-x: hidden;
+overflow-y: auto;
+width: 100%;
+display: flex;
+justify-content: center;
+top:8em;
+height: 100%;
+margin-left: 10em;
+
+}
+
+/*top content positioning*/
+.row {
+    width: 100%;
+    margin-top: 5px;
+    margin-right: 30px;
+}
+
+
+/*right columns sizing for image boxes*/
+#bottom {
+    width: 65%;
+   
+}
+
+/*padding for image boxes*/
+.col-md-12 {
+    padding-top: 10px;
+    top: -10px;
+}

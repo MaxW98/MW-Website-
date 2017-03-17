@@ -1,0 +1,51 @@
+
+/*Video CSS and Positioning*/
+.securityvideo {
+position: fixed;
+overflow-x: hidden;
+overflow-y: auto;
+width: 90%;
+display: flex;
+top: 24em;
+height: 100%;
+margin-left: 10em;
+    
+}
+
+/*Top row positioning*/
+.rowsecurity {
+position: fixed;
+overflow-x: hidden;
+overflow-y: auto;
+width: 50%;
+top: 9em;
+height: 100%;
+margin-left: 60em;
+
+}
+
+/*bottom row positioning*/
+.rowsecurity2 {
+position: fixed;
+overflow-x: hidden;
+overflow-y: auto;
+width: 50%;
+top: 39em;
+height: 100%;
+margin-left: 60em;
+
+}
+
+/*modal top positioning*/
+#myModalC {
+    top: 25em;
+}
+
+/*modal top positioning*/
+#myModalC2 {
+    top: 25em;
+}
+
+
+
+
